@@ -1,0 +1,42 @@
+[
+    {
+        "nome": "Lana",
+        "sobrenome": "Alves",
+        "empresa": "International School",
+        "endereco": "Av. Copacabana",
+        "numero": "2000",
+        "pais": "Brasil",
+        "cidade": "São Paulo",
+        "estado": "São Paulo",
+        "cep": "09765435",
+        "telefone": "11965486543",
+        "email": "email@international.com"
+    },
+    {
+        "nome": "Giovanna",
+        "sobrenome": "Leticia",
+        "empresa": "Granito",
+        "endereco": "Av. Copacabana",
+        "numero": "2000",
+        "pais": "Brasil",
+        "cidade": "Barueri",
+        "estado": "São Paulo",
+        "cep": "09765435",
+        "telefone": "11965486543",
+        "email": "email@granito.com"
+    },
+    {
+        "nome": "Sara",
+        "sobrenome": "Evelin",
+        "empresa": "Bradesco",
+        "endereco": "Av. Copacabana",
+        "numero": "2000",
+        "pais": "Brasil",
+        "cidade": "Barueri",
+        "estado": "São Paulo",
+        "cep": "09765435",
+        "telefone": "11965486543",
+        "email": "email@bradesco.com"
+    }
+
+]
